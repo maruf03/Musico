@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\ofxDatGui.cpp">
+      <Filter>addons\ofxDatGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\core\ofxDatGuiComponent.cpp">
+      <Filter>addons\ofxDatGui\src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\libs\ofxSmartFont\ofxSmartFont.cpp">
+      <Filter>addons\ofxDatGui\src\libs\ofxSmartFont</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AudioEffect.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AudioFingerprinting.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\InstrumentSimulation.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MainMenu.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SpectrumAnalysis.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Synthesizer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{f6067d99-657e-4e8e-bdb3-326d73d22808}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui">
+      <UniqueIdentifier>{d90c9440-23cf-41f8-b963-f7f9c0654f71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src">
+      <UniqueIdentifier>{6a217a39-33c4-434f-ac09-1984f39d6c1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\components">
+      <UniqueIdentifier>{881c604b-6a76-4193-bc59-c3aab56e68a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\core">
+      <UniqueIdentifier>{cd61d339-8699-4486-87f3-6d19f2546f59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\libs">
+      <UniqueIdentifier>{97c84b5a-8473-4a2f-b938-91a88318cd0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\libs\ofxSmartFont">
+      <UniqueIdentifier>{277e5704-4933-4875-b83f-27fff9d8327f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\themes">
+      <UniqueIdentifier>{24681bc6-c002-4696-81c0-05130057569c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\ofxDatGui.h">
+      <Filter>addons\ofxDatGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGui2dPad.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGuiButton.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGuiColorPicker.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGuiControls.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGuiFRM.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGuiGroups.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGuiLabel.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGuiMatrix.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGuiScrollView.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGuiSlider.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGuiTextInput.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGuiTextInputField.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\components\ofxDatGuiTimeGraph.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\core\ofxDatGuiComponent.h">
+      <Filter>addons\ofxDatGui\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\core\ofxDatGuiConstants.h">
+      <Filter>addons\ofxDatGui\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\core\ofxDatGuiEvents.h">
+      <Filter>addons\ofxDatGui\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\core\ofxDatGuiIntObject.h">
+      <Filter>addons\ofxDatGui\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\libs\ofxSmartFont\ofxSmartFont.h">
+      <Filter>addons\ofxDatGui\src\libs\ofxSmartFont</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\themes\ofxDatGuiTheme.h">
+      <Filter>addons\ofxDatGui\src\themes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxDatGui\src\themes\ofxDatGuiThemes.h">
+      <Filter>addons\ofxDatGui\src\themes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
