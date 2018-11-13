@@ -28,3 +28,8 @@
 ### c.	More Visualization.
 ### d.	More Effect (reverb, echo etc).
 ### e.	Implementing multi-Touch and Gesture User Interface.
+# Installation and Dependency:
+
+## Download and Install JACK Audio from ![here](http://jackaudio.org/downloads/)
+## Download and Extract Musico Installer from ![here](https://github.com/maruf03/Musico/releases/download/v0.1.0-alpha/v0.1.0_x86_alpha.zip)
+## Run setup.exe
