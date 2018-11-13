@@ -30,6 +30,11 @@
 ### e.	Implementing multi-Touch and Gesture User Interface.
 # Installation and Dependency:
 
-## Download and Install JACK Audio from ![here](http://jackaudio.org/downloads/)
-## Download and Extract Musico Installer from ![here](https://github.com/maruf03/Musico/releases/download/v0.1.0-alpha/v0.1.0_x86_alpha.zip)
+## Download and Install JACK Audio from [here](http://jackaudio.org/downloads/)
+## Download and Extract Musico Installer from [here](https://github.com/maruf03/Musico/releases/download/v0.1.0-alpha/v0.1.0_x86_alpha.zip)
 ## Run setup.exe
+![alt text](https://github.com/maruf03/Musico/blob/master/Screenshots/bandicam%202018-11-14%2001-50-15-784.jpg)
+![alt text](https://github.com/maruf03/Musico/blob/master/Screenshots/bandicam%202018-11-14%2001-50-26-432.jpg)
+![alt text](https://github.com/maruf03/Musico/blob/master/Screenshots/bandicam%202018-11-14%2001-50-31-682.jpg)
+![alt text](https://github.com/maruf03/Musico/blob/master/Screenshots/bandicam%202018-11-14%2001-50-38-180.jpg)
+
