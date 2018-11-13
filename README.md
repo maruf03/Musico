@@ -33,8 +33,17 @@
 ## Download and Install JACK Audio from [here](http://jackaudio.org/downloads/)
 ## Download and Extract Musico Installer from [here](https://github.com/maruf03/Musico/releases/download/v0.1.0-alpha/v0.1.0_x86_alpha.zip)
 ## Run setup.exe
+### The Installer will guide you through the installation process
 ![alt text](https://github.com/maruf03/Musico/blob/master/Screenshots/bandicam%202018-11-14%2001-50-15-784.jpg)
 ![alt text](https://github.com/maruf03/Musico/blob/master/Screenshots/bandicam%202018-11-14%2001-50-26-432.jpg)
 ![alt text](https://github.com/maruf03/Musico/blob/master/Screenshots/bandicam%202018-11-14%2001-50-31-682.jpg)
 ![alt text](https://github.com/maruf03/Musico/blob/master/Screenshots/bandicam%202018-11-14%2001-50-38-180.jpg)
+# Running Musico:
+### •	Run JACK Control and start the Audio Server
+#### Click the Start Button
+![alt text](https://github.com/maruf03/Musico/blob/master/Screenshots/bandicam%202018-11-14%2001-59-00-191.jpg)
+#### The following screen will appear
+![alt text](https://github.com/maruf03/Musico/blob/master/Screenshots/bandicam%202018-11-14%2001-59-08-417.jpg)
+### Run Musico from Start Menu or Desktop Shortcut 
 
+## Feel free to report an issue if find any. This is project for my Computer Science Lab. It may contain several bugs. Use at your own risk.
